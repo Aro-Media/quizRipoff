@@ -1,0 +1,110 @@
+body {
+  background:#6d1616;
+ 
+}
+
+.main {
+  width:500px;
+  margin: 0 auto;
+}
+
+img {
+  width:100%;
+}
+
+h1 {
+  color:#ffe5a8;
+  
+  /*font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;*/
+
+  font-family: "Edu QLD Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  text-align: center;
+}
+
+.result {
+  color: #ffe5a8;
+  font-size: 22px;
+  text-align: center;
+
+  font-family: "Edu QLD Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+
+input {
+  background-color: #f9924d;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  column-gap: 40px;
+  margin-bottom: 15px;
+
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  text-align: center;
+}
+
+.clear {
+  width: 70px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 15%;
+  border-color: #6e4036;
+
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  text-align: center;
+}
+
+.equals {
+  width: 70px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 15%;
+  border-color: #6e4036;
+
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  text-align: center;
+}
+.input {
+  height: 30px;
+  width: 50%;
+  font-size: 20px;
+  border-radius: 5%;
+  margin-top: 10px;
+
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+  text-align: center;
+}
